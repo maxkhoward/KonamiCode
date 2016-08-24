@@ -6,4 +6,4 @@ The Konami Code first appeared in the video game Gradius in 1986, giving the pla
 
 ## Code Example
 
-[http://codepen.io/maxkhoward/pen/qNzNBL](follow this link) to see the code in action at CodePen.
+[follow this link](http://www.codepen.io/maxkhoward/pen/qNzNBL) to see the code in action at CodePen.
